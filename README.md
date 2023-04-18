@@ -20,9 +20,9 @@
  #### 2. [SMA N 1 Tagulandang] | MIPA | Tagulandang `2015-2018`
    
 ### Hard Skill
-## Junior Frontend Developer
-## Bootsrap
-## Junior Database Administrator
+- Junior Frontend Developer
+- Bootsrap
+- Junior Database Administrator
 
 
 
